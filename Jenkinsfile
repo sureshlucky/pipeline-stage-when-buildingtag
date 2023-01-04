@@ -6,7 +6,7 @@ pipeline{
                  tag "release -  *"
             }
             steps{
-                echo "Hello World Buildong Tga"
+                echo "Hello World Buildong Tag"
             }
         }
     }
